@@ -5,8 +5,14 @@ Penguinsnake is an organisation ran (/made by) by 2 people who make random proje
 
 Projects:
 Luxury launcher {A MultiMC fork customised by Penguinsnake}
+
+
 Encryption Messages {A project made by CreatorLibs for no reason, random project}
+
+
 Dusk {A programming language written in Python [DECAPRICATED]}
+
+
 <!--
 
 **Here are some ideas to get you started:**
