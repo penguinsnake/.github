@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Penguinsnake is an organisation ran by 2 people who make random projects here on github and other sites, recently we now have 5 creators (only 1 is actually on github though).
+Penguinsnake is an organisation ran (/made by) by 2 people who make random projects here on github and other sites, recently we now have 5 creators (only 1 is actually on github though).
 
 Projects:
 Luxury launcher {A MultiMC fork customised by Penguinsnake}
