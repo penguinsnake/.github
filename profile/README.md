@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Penguinsnake** is an organization created and run by two passionate individuals who love making random projects across GitHub and other platforms (of which 1 is only on github).
+**Penguinsnake 🐧🐍** is an organization created and run by two passionate individuals who love making random projects across GitHub and other platforms (of which 1 is only on github).
 
 
 Projects:
