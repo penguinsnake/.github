@@ -1,7 +1,9 @@
 ## Hi there 👋
 
-**Penguinsnake** is an organization created and run by two passionate individuals who love making random projects across GitHub and other platforms. Recently, we've grown to include five creators (although only one is currently active on GitHub).
-Projects
+**Penguinsnake** is an organization created and run by two passionate individuals who love making random projects across GitHub and other platforms (of which 1 is only on github).
+
+
+Projects:
 
 * Plugin Shell
   - Ever wanted to manually install bloatware? Well this is for you as with this program, you can just install plugins (which could be ANYTHING)
